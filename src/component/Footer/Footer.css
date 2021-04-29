@@ -1,0 +1,25 @@
+.footer{
+    height:100%;
+    background-color: #F3F6FA;
+    padding:30px;
+    /* background-color: #215671; */
+}
+.main-footer{
+
+}
+.address{
+    width:100%;
+}
+.footer-bottom{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+@media (max-width:970px){
+    .footer-bottom{
+        display: block;
+        text-align: center;
+    }
+}

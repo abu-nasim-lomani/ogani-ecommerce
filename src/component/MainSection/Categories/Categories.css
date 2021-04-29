@@ -1,0 +1,33 @@
+.hero__categories{
+    
+}
+
+.hero__categories__all{
+    background: #7fad39;
+    position: relative;
+    padding: 10px 25px 10px 40px;
+    cursor: pointer;
+    width: 290px;
+    color: #fff;
+    font-family: Cairo, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+
+@media (max-width: 768px){
+    .hero__categories__all{
+        background: #7fad39;
+        position: relative;
+        padding: 10px 25px 10px 40px;
+        cursor: pointer;
+        width: 100%;
+        color: #fff;
+        font-family: Cairo, sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        
+    }
+}
+
